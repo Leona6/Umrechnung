@@ -1,7 +1,7 @@
 public class Temperaturwerte {
 
     public static void main(String args[]){
-
+        int a =[hallo];
         double celsius=10;
         double Kelvin;
         double Fahrenheit;
